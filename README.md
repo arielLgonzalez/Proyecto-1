@@ -35,6 +35,3 @@ Costos de envio por categoria.
 ![#4](https://github.com/arielLgonzalez/Proyecto-1/assets/102005610/80682520-32c5-4885-8ec7-55ec07a8b2bc)
 ## 5) ¿Cuál es el tipo de pago preferido por los clientes? y ¿Coincide como el tipo de pago con mayor flujo de dinero?
 ![#5](https://github.com/arielLgonzalez/Proyecto-1/assets/102005610/27d01e6b-fa1b-4242-b8c5-ce2dea338991)
-
-
-<iframe title="InformeGestionyFinanzas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=06246683-d684-491a-9888-786093f0920c&autoAuth=true&ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5" frameborder="0" allowFullScreen="true"></iframe>
