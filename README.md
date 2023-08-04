@@ -37,3 +37,8 @@ Costos de envio por categoria.
 ![#5](https://github.com/arielLgonzalez/Proyecto-1/assets/102005610/27d01e6b-fa1b-4242-b8c5-ce2dea338991)
 
 
+
+
+
+
+https://app.powerbi.com/reportEmbed?reportId=06246683-d684-491a-9888-786093f0920c&autoAuth=true&ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5
